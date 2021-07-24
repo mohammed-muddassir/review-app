@@ -1,6 +1,0 @@
-"test": "echo \"Error: no test specified\" && exit 1"
-/* var sqlQuery="CREATE TABLE customers (PersonID int,FirstName VARCHAR(255),LastName VARCHAR(255))" */
-   /*  var sqlQuery="ALTER TABLE customers ADD PRIMARY KEY(PersonID)" */
-   /* var sqlQuery="INSERT INTO customers (PersonID,FirstName,LastName) VALUES (2,'Jin','Uchiha')" */
-   http://localhost:5000/
-   08:47:00	DELETE FROM a_review WHERE anime="steins;gate"	Error Code: 1175. You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column.  To disable safe mode, toggle the option in Preferences -> SQL Editor and reconnect.	0.000 sec
